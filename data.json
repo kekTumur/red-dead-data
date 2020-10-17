@@ -1,0 +1,85 @@
+{
+    "characters": [
+        {
+            "id": "0",
+            "name": "Arthur Morgan",
+            "age": "36",
+            "gender": "male",
+            "nationality": "american",
+            "coverImage": "https://static.wikia.nocookie.net/reddeadredemption/images/5/52/RDR2_Arthur_Morgan_Default.jpg/revision/latest/scale-to-width-down/350?cb=20200602191534",
+            "phrase": "You know, all that ever mattered to me was loyalty. It was all I knew. It was all I ever believed in..."
+        },
+        {
+            "id": "1",
+            "name": "Dutch van der Linde",
+            "age": "44",
+            "gender": "male",
+            "nationality": "american",
+            "coverImage": "https://i.weazel.ru/dutch.jpg/content/90/full.jpg",
+            "phrase": "We can't always fight nature, John. We can't fight change, we can't fight gravity, we can't fight nothin'. My whole life, all I ever did was fight..."
+        },
+        {
+            "id": "2",
+            "name": "Hosea Matthews",
+            "age": "55",
+            "gender": "male",
+            "nationality": "american",
+            "coverImage": "https://static.wikia.nocookie.net/reddeadredemption/images/4/40/RDR_2_Hosea_pfp_1.png/revision/latest?cb=20200209025140",
+            "phrase": "I wish I had acquired wisdom at less of a price."
+        },
+        {
+            "id": "3",
+            "name": "John Marston",
+            "age": "26",
+            "gender": "male",
+            "nationality": "american",
+            "coverImage": "https://static.wikia.nocookie.net/reddeadredemption/images/a/ac/JohnMarstonSr.1899.jpg/revision/latest/scale-to-width-down/350?cb=20200609002753",
+            "phrase": "People don't forget. Nothing gets forgiven."
+        },
+        {
+            "id": "3",
+            "name": "John Marston",
+            "age": "26",
+            "gender": "male",
+            "nationality": "american",
+            "coverImage": "https://static.wikia.nocookie.net/reddeadredemption/images/a/ac/JohnMarstonSr.1899.jpg/revision/latest/scale-to-width-down/350?cb=20200609002753",
+            "phrase": "People don't forget. Nothing gets forgiven."
+        },
+        {
+            "id": "4",
+            "name": "Abigail Roberts",
+            "age": "22",
+            "gender": "female",
+            "nationality": "american",
+            "coverImage": "https://static.wikia.nocookie.net/reddeadredemption/images/7/77/Abigail1899.png/revision/latest/scale-to-width-down/350?cb=20201015032135",
+            "phrase": "John... I love you. Don't you forget that... not ever now."
+        },
+        {
+            "id": "5",
+            "name": "Jack Marston",
+            "age": "4",
+            "gender": "male",
+            "nationality": "american",
+            "coverImage": "https://static.wikia.nocookie.net/reddeadredemption/images/e/e1/JackMarstonRDR2.png/revision/latest/scale-to-width-down/350?cb=20181027030726",
+            "phrase": "I guess there's only room for one hero in this family."
+        },
+        {
+            "id": "6",
+            "name": "Micah Bell",
+            "age": "39",
+            "gender": "male",
+            "nationality": "american",
+            "coverImage": "https://static.wikia.nocookie.net/reddead/images/9/9c/MicqhB3ll.jpg/revision/latest?cb=20200630105155&path-prefix=ru",
+            "phrase": "I believe there's winners and losers... and nothing else besides."
+        },
+        {
+            "id": "7",
+            "name": "Charles Smith",
+            "age": "30",
+            "gender": "male",
+            "nationality": "american",
+            "coverImage": "https://static.wikia.nocookie.net/reddeadredemption/images/e/e7/Charles.jpg/revision/latest/scale-to-width-down/350?cb=20190323165557",
+            "phrase": "The amount of hell we've raised, we're owed some back."
+        }
+    ]
+}
