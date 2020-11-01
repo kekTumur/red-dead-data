@@ -37,16 +37,7 @@
             "phrase": "People don't forget. Nothing gets forgiven."
         },
         {
-            "id": "4",
-            "name": "John Marston",
-            "age": "26",
-            "gender": "male",
-            "nationality": "american",
-            "coverImage": "https://static.wikia.nocookie.net/reddeadredemption/images/a/ac/JohnMarstonSr.1899.jpg/revision/latest/scale-to-width-down/350?cb=20200609002753",
-            "phrase": "People don't forget. Nothing gets forgiven."
-        },
-        {
-            "id": "5",
+            "id": "6",
             "name": "Abigail Roberts",
             "age": "22",
             "gender": "female",
@@ -55,7 +46,7 @@
             "phrase": "John... I love you. Don't you forget that... not ever now."
         },
         {
-            "id": "6",
+            "id": "7",
             "name": "Jack Marston",
             "age": "4",
             "gender": "male",
@@ -64,7 +55,7 @@
             "phrase": "I guess there's only room for one hero in this family."
         },
         {
-            "id": "7",
+            "id": "8",
             "name": "Micah Bell",
             "age": "39",
             "gender": "male",
@@ -73,7 +64,7 @@
             "phrase": "I believe there's winners and losers... and nothing else besides."
         },
         {
-            "id": "8",
+            "id": "9",
             "name": "Charles Smith",
             "age": "30",
             "gender": "male",
